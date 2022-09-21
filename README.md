@@ -1,4 +1,4 @@
-<img src="https://photos.google.com/search/_tra_/photo/AF1QipPD-O5afZGx4W0tro3qQC-iUmwozHmEB2LrrxAx">
+
 
 <h1 align="center">Hi 👋, I'm Mamidi Rajesh</h1>
 <h3 align="center">An aspiring Fullstack Webdeveloper from India</h3>

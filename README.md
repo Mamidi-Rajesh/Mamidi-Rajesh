@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Mamidi-Rajesh/Mamidi-Rajesh/blob/main/Untitled%20design%20(12).png)
 
 <h1 align="center">Hi 👋, I'm Mamidi Rajesh</h1>
 <h3 align="center">An aspiring Fullstack Webdeveloper from India</h3>

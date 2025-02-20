@@ -10,11 +10,14 @@
 
 <p align="left"> <a href="https://twitter.com/rajeshm01485151" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshm01485151?logo=twitter&style=for-the-badge" alt="rajeshm01485151" /></a> </p>
 
+- 👨🏻‍💻 I am a passionate Web Developer with 2 years of experience, creating beautiful and scalable web applications. I specialize in both frontend and backend technologies, and I strive to build solutions that are not only functional but also 
+     aesthetically pleasing.
+
 - 🌱 I’m currently learning **JavaScript Full Stack Webdevelopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mamidi-Rajesh](https://github.com/Mamidi-Rajesh)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node.js, Mongodb, GitHub and Linux.**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, ReactJs, VueJs, NextJs, Node.js, Mongodb, AWS(S3 bucket,IAM, EC2, Elastic Beantstalk) GitHub and Linux.**
 
 - 📫 How to reach me **mamidirajesh777@gmail.com**
 

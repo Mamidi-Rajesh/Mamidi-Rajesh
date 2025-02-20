@@ -13,11 +13,11 @@
 - 👨🏻‍💻 I am a passionate Web Developer with 2 years of experience, creating beautiful and scalable web applications. I specialize in both frontend and backend technologies, and I strive to build solutions that are not only functional but also 
      aesthetically pleasing.
 
-- 🌱 I’m currently learning **JavaScript Full Stack Webdevelopment**
+- 🌱 I have handson experience in **JavaScript Full Stack Webdevelopment** , **MERN Stack** , **ReactJs**, **VueJs**, **NextJs**, **AWS**, **Git**, **GitHub**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mamidi-Rajesh](https://github.com/Mamidi-Rajesh)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, ReactJs, VueJs, NextJs, Node.js, Mongodb, AWS(S3 bucket,IAM, EC2, Elastic Beantstalk) GitHub and Linux.**
+- 💬 Ask me about **HTML5, CSS3, **Tailwind css**, JavaScript, ReactJs, VueJs, NextJs, Node.js, Mongodb, AWS(S3 bucket, IAM, EC2, Elastic Beantstalk) GitHub and Linux.**
 
 - 📫 How to reach me **mamidirajesh777@gmail.com**
 
